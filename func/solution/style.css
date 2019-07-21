@@ -1,0 +1,42 @@
+body {
+  width: 270px;
+  font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.wrap {
+  width: 100%;
+  margin: auto;
+  padding: 10px 10px 20px;
+  background-color: #f2f2f2;
+}
+
+.city {
+  font: bold 24px;
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: '';
+}
+
+.icon {
+  float: left;
+}
+
+.temp {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.parametrs {
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.parametrs td {
+  border: solid 1px #222;
+  padding: 5px;
+}

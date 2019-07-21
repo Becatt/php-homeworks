@@ -1,0 +1,17 @@
+.tasks  {
+  margin: 20px 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.tasks  td {
+  border: 1px solid #ccc;
+  margin: 0;
+  padding: 5px;
+}
+
+.tasks thead {
+  background-color: #eee;
+  font-weight: bold; 
+  text-align: center;
+
+}

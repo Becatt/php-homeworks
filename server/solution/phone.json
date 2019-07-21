@@ -1,0 +1,154 @@
+[
+{
+    "firstName": "Иван",
+    "lastName": "Иванов",
+    "address": {
+        "city": "Москва",
+        "streetAdress": "Ленинградское ш.",
+        "house": 5,
+        "apt": 10
+    },
+    "phoneNumbers": {
+        "worker": "111 111-1111",
+        "home": "222-2222",
+        "personal": "122 133-3333"
+    }
+},
+
+{
+    "firstName": "Петр",
+    "address": {
+        "streetAdress": "Вернадского пр.",
+        "city": "Москва",
+	    "house": 120,
+	    "apt": 55
+     },
+     "lastName": "Петров",
+     "phoneNumbers": {
+        "worker": "211 111-1111",
+        "home": "233-2333",
+        "personal": "222 222-2222"
+    }
+},
+  
+{
+    "firstName": "Олег",
+    "lastName": "Фомин",
+    "address": {
+        "city": "Тула",
+	    "streetAdress": "Ленина пр.",
+	    "house": 130
+    },
+    "phoneNumbers": {
+	   "worker": "311 111-1111",
+	   "personal": "322 222-2222",
+       "home": "322-3333"
+    }
+},
+  
+{   
+    "lastName": "Малинин",
+    "address": {
+        "city": "Тула",
+	    "streetAdress": "Вересаева",
+	    "house": 11,
+	    "apt": 33
+    },
+    "phoneNumbers": {
+	    "worker": "411 111-1111",
+	    "personal": "422 222-2222"
+    },
+    "firstName": "Дмитрий"
+},
+  
+{
+    "phoneNumbers": {
+	    "worker": "511 111-1111",
+	    "personal": "522 222-2222",
+        "home": "522-3333"
+    }, 
+    "firstName": "Алексей",
+    "lastName": "Митин",
+    "address": {
+        "city": "Самара",
+	    "streetAdress": "Волжская",
+	    "house": 30,
+	    "apt": 40
+    }
+},
+  
+{
+    "firstName": "Илья",
+    "lastName": "Меньшов",
+    "address": {
+	    "streetAdress": "Фрунзе",
+	    "house": 48,
+        "city": "Самара"
+    },
+    "phoneNumbers": {
+        "personal": "622 222-2222"
+    }
+},
+
+{
+    "firstName": "Павел",
+    "lastName": "Большаков",
+    "address": {
+        "city": "Санкт-Петербург",
+	    "streetAdress": "Рубинштейна",
+	    "house": 6,
+	    "apt": 12
+    },
+    "phoneNumbers": {
+        "home": "722-3333"
+    }
+},
+  
+{
+    "address": {
+        "house": 60,
+        "streetAdress": "Гороховая",
+        "city": "Санкт-Петербург"
+    },
+    
+    "lastName": "Печенкин",
+    "firstName": "Кирилл",
+    "phoneNumbers": {
+	    "worker": "811 111-1111",
+	    "personal": "822 222-2222",
+        "home": "822-3333"
+    }
+},
+
+{
+    "firstName": "Артем",
+    "lastName": "Левин",
+    "address": {
+        "city": "Псков",
+	    "streetAdress": "Гагрина",
+	    "house": 36,
+	    "apt": 23
+    },
+    "phoneNumbers": {
+        "personal": "922 222-2222",
+        "home": "922-3333"
+    }
+},
+
+{
+    "firstName": "Михаил",  
+    "address": {
+        "city": "Владивосток",
+        "streetAdress": "Морская",
+        "house": 120,
+        "apt": 90
+    },
+    "phoneNumbers": {
+	    "personal": "102 222-2222",
+        "home": "202-3333",
+        "worker": "101 111-1111"
+    },
+    "lastName": "Гущин"
+}
+
+]
